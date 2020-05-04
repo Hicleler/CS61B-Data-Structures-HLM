@@ -1,0 +1,25 @@
+> init
+<<<
++ cs189.txt wug.txt
+> add cs189.txt
+<<<
+> commit "hello.txt"
+<<<
+> rm cs189.txt
+<<<
+* cs189.txt
+> status
+=== Branches ===
+*master
+
+=== Staged Files ===
+
+=== Removed Files ===
+cs189.txt
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
+

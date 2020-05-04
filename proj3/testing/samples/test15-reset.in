@@ -1,0 +1,15 @@
+> init
+<<<
++ cs189.txt wug2.txt
+> add cs189.txt
+<<<
++ 2.txt wug3.txt
+> add cs189.txt
+<<<
+> commit "nmcs189cs189cs189cs189cs189sl"
+<<<
+> branch whcs189at
+<<<
+> reset 232345535
+No commit with that id exists.
+<<<

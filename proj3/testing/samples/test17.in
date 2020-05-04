@@ -1,0 +1,6 @@
+I setup2.inc
++ hi.txt hihihihihihihi.txt
+> add hi.txt
+<<<
+> commit "hihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihihi"
+<<<

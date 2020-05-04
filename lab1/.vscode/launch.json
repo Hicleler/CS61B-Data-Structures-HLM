@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Year",
+            "request": "launch",
+            "mainClass": "Year"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear"
+        }
+    ]
+}

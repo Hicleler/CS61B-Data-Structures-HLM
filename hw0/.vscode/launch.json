@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tester",
+            "request": "launch",
+            "mainClass": "Tester"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hw0",
+            "request": "launch",
+            "mainClass": "hw0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxOfArray",
+            "request": "launch",
+            "mainClass": "maxOfArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - max",
+            "request": "launch",
+            "mainClass": "max"
+        }
+    ]
+}

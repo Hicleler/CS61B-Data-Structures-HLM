@@ -1,0 +1,26 @@
+Gitlet Design Document
+----------------------
+Branch: A class representing a branch.
+Commit: A class representing a commit.
+Main: The starting point for this project.
+Repo: The MAIN BODY for this project, carry out functions.
+
+Classes and Data Structures
+---------------------------
+HashMap: Most heavily used. I use HashMap in this project to create mapping between various objects,
+                            mostly names of objects/files to their contents or sha1.
+HashSet:
+        Very hand for storing unordered elements in this project.
+
+Arraylist:
+        Used to implement a queue.
+
+Algorithms
+----------
+BFS for finding split point.
+
+Persistence
+-----------
+VERY COOL!
+The project is robust and it significantly improved my a ability for resisting frustrations.
+Thanks to Git for being awesome.
